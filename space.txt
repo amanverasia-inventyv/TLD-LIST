@@ -1,0 +1,2 @@
+# This test file only has one .TLD that needs to be blocked, .space
+*.space
